@@ -145,3 +145,13 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+1. Bonus Creative Features: Did you add anything unique? Three character classes (Warrior, Mage, Rogue) and their default special abilities. 
+
+2. AI Usage: What AI assistance did you use and where? I use AI for debugging and for Terminal navigation.
+
+3. How to Run: Clear instructions for testing your code. Start by downloading all associated files, making sure to keep them in the same folder. Then, run the main file, project2_starter.py.
+
+
+
+
